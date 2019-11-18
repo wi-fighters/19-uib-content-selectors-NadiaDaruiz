@@ -11,3 +11,23 @@ body {
     text-align: center;
     font-size: 50px;    
 }
+
+.box-1 {
+    background-color: black;
+    border-bottom: .2em solid #4d2d06;
+}
+
+.box-2 {
+    background-color: white;
+    color: black;
+    border-bottom: .2em solid #4d2d06;
+}
+
+.box-3 {
+    background-color: white;
+    color: black;
+}    
+
+p {
+    font-size: 40px;
+}
